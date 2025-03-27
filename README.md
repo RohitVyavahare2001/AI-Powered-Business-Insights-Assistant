@@ -17,7 +17,7 @@ https://youtu.be/NbM4aQAieJQ
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/RohitVyavahare2001/AI-Powered-Business-Insights-Assistant
 cd ai-business-insights
 ```
 
@@ -72,14 +72,4 @@ streamlit run app.py
 - python-dotenv
 - Other dependencies listed in requirements.txt
 
-## Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
