@@ -2,7 +2,7 @@
 
 A sophisticated AI-powered business analysis tool that leverages Groq's LLM capabilities to provide strategic insights and recommendations for business decision-making.
 
-## Demo
+## Demo (How it looks like) 
 https://youtu.be/NbM4aQAieJQ
 
 ## Features
